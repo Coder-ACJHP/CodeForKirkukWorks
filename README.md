@@ -8,7 +8,7 @@
 <hr>
 
 # Bank ATM working logic code
-<h2>This project we created ATM example code with <b>equal distribution of money</b> algorithm.</h2>
+<h4>This project we created ATM example code with <b>equal distribution of money</b> algorithm.</h4>
 
 <hr>
 <h2>Another questions ?</h2> 
